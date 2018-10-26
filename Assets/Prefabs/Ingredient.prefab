@@ -24,10 +24,9 @@ GameObject:
   - component: {fileID: 54419346244245182}
   - component: {fileID: 135623616566686908}
   - component: {fileID: 114843342061348392}
-  - component: {fileID: 114634448459428750}
   m_Layer: 0
   m_Name: Ingredient
-  m_TagString: Untagged
+  m_TagString: Ingrediant
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -78,19 +77,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &114634448459428750
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1568666360907474}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: afd1b441631a1fd43a6f5c723da28ec9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  TextScore: {fileID: 0}
-  IntScore: 0
 --- !u!114 &114843342061348392
 MonoBehaviour:
   m_ObjectHideFlags: 1
